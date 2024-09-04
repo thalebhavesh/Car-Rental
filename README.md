@@ -6,6 +6,7 @@ A responsive web application that allows users to browse, select, and book renta
 # Demo
 
 Demo Link: https://carrentalhubs.netlify.app/
+The database is not connected to the Netlify domain, so the car details and booking details will not be displayed.
 
 ## Documentation
 
